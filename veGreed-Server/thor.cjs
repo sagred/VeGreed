@@ -1,0 +1,1 @@
+export const abi = require('thor-devkit').abi 

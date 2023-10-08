@@ -1,0 +1,25 @@
+{
+  "name": "vechain-loki-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^3.10.66",
+    "@vechain/connex": "^2.1.0",
+    "@vechain/connex-driver": "^2.1.0",
+    "@vechain/connex-framework": "^2.1.0",
+    "@vechain/web3-providers-connex": "^1.1.2",
+    "cors": "^2.8.5",
+    "ethers": "5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "thor-devkit": "^2.0.9",
+    "thorify": "^1.6.2",
+    "web3": "1.*",
+    "web3-core-subscriptions": "^1.10.0"
+  }
+}

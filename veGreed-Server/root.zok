@@ -1,0 +1,6 @@
+import "hashes/sha256/512bitPacked" as sha256packed;
+
+def main(private field pid, private field sid, private field address, private field uid) -> field[2] {
+    field[2] h = sha256packed([pid, sid, address, uid]);
+    return h;
+}
