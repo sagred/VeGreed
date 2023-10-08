@@ -69,6 +69,18 @@ Indie Manufacturers and Influencers
 - **Transaction Fees:** A fee for every verification transaction on the dApp.
 - **Partnerships with Brands:** Premium verification for genuine product endorsements.
 
+## App Screenshots
+
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113152.png" width=30%>
+
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113200.png" width=30%>
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113214.png" width=30%>
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113409.png" width=30%>
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113420.png" width=30%>
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113423.png" width=30%>
+<img src="https://github.com/sagred/VeGreed/blob/main/Screenshots/Screenshot_20231008-113458.png" width=30%>
+
+
 ---
 
 \* Source data for Influencers on Instagram required.  
