@@ -1,0 +1,68 @@
+[
+    {
+        "0": {
+            "companyName": "LuxeCraft Inc.",
+            "product": {
+                "productName": "Monarch Leather Tote",
+                "productID": "LC001",
+                "description": "Exquisite hand-stitched leather tote featuring a butterfly emblem.",
+                "price": "$1,900",
+                "origin": {
+                    "country": "France",
+                    "city": "Paris",
+                    "factory": "LuxeCraft Atelier"
+                },
+                "manufacturingProcedure": [
+                    { "step": 1, "description": "Design and sketching." },
+                    { "step": 2, "description": "Select premium calf leather." },
+                    { "step": 3, "description": "Precision cutting of leather." },
+                    { "step": 4, "description": "Hand-stitching and emblem integration." },
+                    { "step": 5, "description": "Quality assurance and final inspection." }
+                ],
+                "rawMaterials": [
+                    { "material": "Calf Leather", "source": "Sustainable ranches in Spain." },
+                    { "material": "Gold (for emblem)", "source": "Ethical mines in Brazil." }
+                ],
+                "preOwner": {
+                    "name": "Alicia Keys",
+                    "ownershipDuration": "8 months",
+                    "condition": "Excellent, used thrice."
+                },
+                "imageURL": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1682013603/443497_AABZC_6832_001_063_0000_Light-GG-Marmont-small-shoulder-bag.jpg"
+            }
+        }
+    },
+    {
+        "1": {
+            "companyName": "LuxeCraft Inc.",
+            "product": {
+                "productName": "Monarch Leather Tote",
+                "productID": "LC001",
+                "description": "Exquisite hand-stitched leather tote featuring a butterfly emblem.",
+                "price": "$1,900",
+                "origin": {
+                    "country": "France",
+                    "city": "Paris",
+                    "factory": "LuxeCraft Atelier"
+                },
+                "manufacturingProcedure": [
+                    { "step": 1, "description": "Design and sketching." },
+                    { "step": 2, "description": "Select premium calf leather." },
+                    { "step": 3, "description": "Precision cutting of leather." },
+                    { "step": 4, "description": "Hand-stitching and emblem integration." },
+                    { "step": 5, "description": "Quality assurance and final inspection." }
+                ],
+                "rawMaterials": [
+                    { "material": "Calf Leather", "source": "Sustainable ranches in Spain." },
+                    { "material": "Gold (for emblem)", "source": "Ethical mines in Brazil." }
+                ],
+                "preOwner": {
+                    "name": "Alicia Keys",
+                    "ownershipDuration": "8 months",
+                    "condition": "Excellent, used thrice."
+                },
+                "imageURL": "https://media.gucci.com/style/DarkGray_Center_0_0_800x800/1682013603/443497_AABZC_6832_001_063_0000_Light-GG-Marmont-small-shoulder-bag.jpg"
+            }
+        }
+    }
+]
