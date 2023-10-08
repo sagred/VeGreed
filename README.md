@@ -6,9 +6,9 @@
 
 | Component               | Description                                                   | Link |
 |-------------------------|---------------------------------------------------------------|------|
-| **VeGreed-phone-app** 📱 | Mobile application                                            | [link](./VeGreed-phone-app) |
-| **VeGreed-Server** 💻    | Backend server for communicating with the blockchain          | [link](./VeGreed-Server) |
-| **Vegreed-frontend** 🌐  | Frontend where Luxury brands mint NFTs                        | [link](./VeGreed-frontend) |
+| **VeGreed-phone-app** 📱 | Mobile application                                            | [link](VeGreed-phone-app) |
+| **VeGreed-Server** 💻    | Backend server for communicating with the blockchain          | [link](VeGreed-Server) |
+| **Vegreed-frontend** 🌐  | Frontend where Luxury brands mint NFTs                        | [link](VeGreed-frontend) |
 
 ## How to start:
 
